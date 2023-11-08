@@ -8,9 +8,11 @@
 - The most distinguishing features of reinforcement learning: Trial and error search and delayerd reward.  
 - Reinforcement learning is different from supervised learning. Supervised learning is learning from a training set of labeled examples provided by a knowledgable external supervisor. While reinforcement learning the agent is learning from its experience
 - Reinforcement learning is also different from unsupervised learning. Unsupervised learning: finding hidden labels in datas. Reinforcement learning is similar but not the same, Instead of finding the hidden structure, Reinforcement learning is maximize reward signal instead.(24)
+- From all of the "learning" methods, reinforcement learning is considered to be the closest to humans and animals learning behaviour. It was originally inspired by biological learning system.
 - Examples of  
 ### Reinforcement learning notes from Andrew Ng  
 <a href="Notes\AndrewNg Note.md">path</a>
 
 ### Multi Armed Bandits?  
+- The best thing about reinforcement learning: data uses to evaluate rather than to instructs. This is creates good reason to do active exploration.
 ### Epsilon greedy?
